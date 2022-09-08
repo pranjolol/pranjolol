@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pranjolol
+- 👀 I’m interested in front-end development and systems engineering
+- 🌱 I’m currently learning cloud computing and web-development
+- 💞️ I’m looking to collaborate on software projects involving sensors and microcontrollers
+- 📫 You can reach me at pranjalbiswas@hotmail.com
